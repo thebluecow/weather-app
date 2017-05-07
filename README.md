@@ -5,7 +5,7 @@ To use the app, users will need to create an api.json file and supply an openwea
 his or her account. For example, the api.json would have the following structure:
 
 {
-  key: "123456789abcdefgh"
+  "key": "123456789abcdefgh"
 }
 
 Run the application using node at the command line, supplying either "zip" or "city" with the appropriate value following.
