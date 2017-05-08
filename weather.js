@@ -16,7 +16,8 @@ function printMessage(weather) {
 	----
 	Sunrise is ${convertUnixTime(weather.sys.sunrise)} and sunset is ${convertUnixTime(weather.sys.sunset)}.
 	----
-	Today, the skies are ${weather.weather[0].main} and it is ${weather.weather[0].description}.`;
+	How does today look? Well we have ${weather.weathter[0].description}.`;
+	/* ${weather.weather[0].main} and it is */
   
 	console.log(message);
 }
