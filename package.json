@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "returns the weather based on zip or city.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "7.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebluecow/weather-app.git"
+  },
+  "author": "Scott Bline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebluecow/weather-app/issues"
+  },
+  "homepage": "https://github.com/thebluecow/weather-app#readme"
+}
